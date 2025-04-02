@@ -1,0 +1,43 @@
+
+:root {
+    --primary-color: #62bebe;
+    --secondary-color: #a4b4b4;
+    --accent-color: #cbebea;
+    --accent-color2: #e1e1e1;
+
+}
+
+
+h1, h2 {
+    font-family: bebas-neue;
+    color: var(--primary-color);
+}
+
+p {
+    font-family: public-sans;
+    color: var(--secondary-color);
+}
+
+.social-media nav {
+    text-decoration: none;
+}
+
+
+.hero img {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+
+
+h1 {
+    position: absolute;
+}
+
+.social-media img {
+    width: 40px;
+    margin: 5px;
+}
+
+
